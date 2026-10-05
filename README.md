@@ -227,32 +227,7 @@ over unstructured document content.
 - LLM integration
 - Context-aware document question answering
 - REST APIs for AI capabilities
-
----
-
-# 💼 Professional Experience
-
-### Associate Software Engineer | Python Developer
-
-**Xbot Labs · Aug 2025 – Present**
-
-- Develop backend services using Python, Django, and Django REST Framework
-- Design and integrate RESTful APIs
-- Develop database functionality using PostgreSQL and MySQL
-- Optimize database queries and backend operations
-- Deploy applications using Docker and AWS EC2
-- Work with AWS RDS for relational database services
-- Use Amazon S3 for object and file storage
-- Contribute to React.js functionality when required
-
----
-
-# 🎓 Education
-
-### Bachelor of Science in Computer Science
-
-**University of Agriculture Faisalabad**
-
+  
 ---
 
 # 📜 Certifications
